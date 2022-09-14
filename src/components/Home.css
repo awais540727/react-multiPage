@@ -1,0 +1,51 @@
+.con {
+  background-color: bisque;
+  border: 1px solid #563737;
+  border-radius: 25px;
+  height: 500px;
+}
+.col1:hover {
+  color: black;
+  width: 50%;
+  height: 100%;
+}
+.img-fluid {
+  border-radius: 30px;
+  align-items: center;
+  text-align: center;
+  width: 170px;
+  height: 180px;
+}
+.img-fluid:hover {
+  cursor: pointer;
+  width: 100%;
+  height: 100%;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.colr {
+  height: 50px;
+  font-weight: bold;
+  color: white;
+  margin-top: 10px;
+  text-decoration: underline;
+  text-align: center;
+  font-size: large;
+}
+.col1 {
+  border: 1px solid white;
+  border-radius: 18px;
+  background: greenyellow;
+  height: 250px;
+}
+.col2 {
+  border: 1px solid white;
+  background: green;
+  height: 250px;
+  border-radius: 18px;
+}
+.col3 {
+  border: 1px solid white;
+  background: gray;
+  height: 250px;
+  border-radius: 18px;
+}

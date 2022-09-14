@@ -1,0 +1,20 @@
+.Container {
+  border: 1px solid black;
+  border-radius: 25px;
+  margin: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.image-log {
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 25px;
+  width: 100px;
+  height: 70px;
+}
+.image-logo {
+  width: 100px;
+  height: 30px;
+  border-radius: 18px;
+}
+.footer:hover {
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}

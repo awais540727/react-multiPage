@@ -1,0 +1,22 @@
+.nav {
+  background-color: rgb(61, 62, 61);
+  border: 1px solid #e6e6e6;
+  border-radius: 12px;
+  display: flex;
+  padding: 1rem;
+}
+.nav-li {
+  color: white;
+  border: 1px solid #e6e6e6;
+  border-radius: 12px;
+  margin-right: 40px;
+  text-decoration: none;
+  background-color: rgb(5, 103, 18);
+  padding: 0.5rem;
+}
+.nav-li:hover {
+  cursor: pointer;
+  background: gray;
+  color: white;
+  box-shadow: 00.5rem white;
+}

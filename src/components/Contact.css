@@ -1,0 +1,74 @@
+.main {
+  background-color: antiquewhite;
+  height: 300px;
+  border-radius: 1px solid pink;
+}
+.select {
+  text-align: center;
+  text-decoration: auto;
+  text-decoration-color: rgb(5, 46, 82);
+  padding: 1rem;
+}
+.text {
+  margin-left: 10px;
+  box-sizing: border-box;
+  height: 35px;
+  width: 426px;
+  text-align: center;
+  border: 1px solid #e6e6e6;
+  border-radius: 20px;
+  font-size: 18px;
+  margin-top: 3px;
+}
+.information-container {
+  background: black;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 20px;
+  color: white;
+  padding: 1rem;
+}
+div label {
+  margin-left: 10px;
+  font-size: 20px bold;
+  line-height: 20px;
+  margin-bottom: 5px;
+}
+.container {
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  margin-bottom: 30px;
+  margin-top: 20px;
+  border: 1px solid black;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.container:hover {
+  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px,
+    rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px,
+    rgba(240, 46, 170, 0.05) 25px 25px;
+}
+
+.input1 {
+  display: flex;
+  width: 100px;
+}
+.options {
+  padding: 0.3rem;
+  border: 1px solid rgb(0, 0, 0);
+  box-sizing: content-box;
+  border-radius: 13px;
+  width: 150px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.submit {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin-left: 10px;
+  margin-top: 15px;
+  padding: 1rem;
+  background: linear-gradient(red 0%, green 75%);
+  text-align: center;
+  width: 150px;
+  border: 1px solid #e6e6e6;
+  border-radius: 25px;
+  color: whitesmoke;
+  font-weight: bold;
+}
